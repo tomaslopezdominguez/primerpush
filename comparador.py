@@ -49,3 +49,4 @@ if st.checkbox("Mostrar gráfico de barras"):
 st.write("---")
 st.write("Ejecuta: `streamlit run comparador.py` desde tu terminal para probar.")
 # Script para analizar abandono de clientes
+#cambio para la rama de pruebas
